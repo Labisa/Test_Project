@@ -5,5 +5,6 @@ public class TestClass {
 
 	{
 		System.out.println("Hello class");
+		System.out.println("bla bla bla");
 	}
 }
